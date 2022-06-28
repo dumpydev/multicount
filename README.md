@@ -18,9 +18,6 @@ adb install build/app/outputs/apk/app-release.apk
 - [DumpyDev](https://github.com/dumpydev/)
 ## License
 [MIT](https://opensource.org/licenses/MIT)
-## Screenshots
-<img height="600" src="https://cloud.dumpy.gq/s/KJ6MRfgA9xoDczZ/preview" width="270"/>
-<img height="600" src="https://cloud.dumpy.gq/s/fFqZHfcm6gABfAj/preview" width="270"/>
 ## Changelog
 - v0.1.0: Initial release
 ## Contributing
@@ -28,3 +25,6 @@ Contributions are welcome!
 Just open a PR with your changes and we'll try to merge it as soon as possible.
 ## Languages
 - Flutter
+## Screenshots
+<img height="600" src="https://cloud.dumpy.gq/s/KJ6MRfgA9xoDczZ/preview" width="270"/>
+<img height="600" src="https://cloud.dumpy.gq/s/fFqZHfcm6gABfAj/preview" width="270"/>
