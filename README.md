@@ -1,4 +1,4 @@
-# MultiCount!
+# MultiCount! ➕
 ![LIC](https://img.shields.io/github/license/dumpydev/multicount?style=flat-square)
 ![Line Count](https://img.shields.io/tokei/lines/github/dumpydev/multicount?style=flat-square)
 ![Open Issues](https://img.shields.io/github/issues-raw/dumpydev/multicount?style=flat-square)
@@ -6,11 +6,11 @@
 ![Stars](https://img.shields.io/github/stars/dumpydev/multicount?style=flat-square)
 
 Simple and easy to use counter for various purposes.
-## Features
+## Features 📚
  - [x] Open Source
  - [x] Easy to use
  - [x] Made in flutter with material design
-## Installation
+## Installation ✈️
 ```bash
 git clone https://github.com/dumpydev/multicount.git
 cd multicount
