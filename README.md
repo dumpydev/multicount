@@ -19,8 +19,8 @@ adb install build/app/outputs/apk/app-release.apk
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 ## Screenshots
-![](https://cloud.dumpy.gq/s/KJ6MRfgA9xoDczZ/preview)
-![](https://cloud.dumpy.gq/s/fFqZHfcm6gABfAj/preview)
+<img height="600" src="https://cloud.dumpy.gq/s/KJ6MRfgA9xoDczZ/preview" width="270"/>
+<img height="600" src="https://cloud.dumpy.gq/s/fFqZHfcm6gABfAj/preview" width="270"/>
 ## Changelog
 - v0.1.0: Initial release
 ## Contributing
