@@ -12,9 +12,19 @@ flutter pub get
 flutter build apk
 adb install build/app/outputs/apk/app-release.apk
 ```
-**or**
+**or**   
 [Download Here (Hosted on DumpyCloud)](https://cloud.dumpy.gq/s/7aRf9APzxWbgX3N/download)
 ## Authors
 - [DumpyDev](https://github.com/dumpydev/)
 ## License
 [MIT](https://opensource.org/licenses/MIT)
+## Screenshots
+![](https://cloud.dumpy.gq/s/KJ6MRfgA9xoDczZ/preview)
+![](https://cloud.dumpy.gq/s/fFqZHfcm6gABfAj/preview)
+## Changelog
+- v0.1.0: Initial release
+## Contributing
+Contributions are welcome!
+Just open a PR with your changes and we'll try to merge it as soon as possible.
+## Languages
+- Flutter
