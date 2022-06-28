@@ -2,8 +2,8 @@
 ![LIC](https://img.shields.io/github/license/dumpydev/multicount?style=flat-square)
 ![Line Count](https://img.shields.io/tokei/lines/github/dumpydev/multicount?style=flat-square)
 ![Open Issues](https://img.shields.io/github/issues-raw/dumpydev/multicount?style=flat-square)
-![Commit Count](https://img.shields.io/github/commit-activity/dumpydev/multicount?style=flat-square)
 ![Contributor Count](https://img.shields.io/github/contributors/dumpydev/multicount?style=flat-square)
+![Stars](https://img.shields.io/github/stars/dumpydev/multicount?style=flat-square)
 
 Simple and easy to use counter for various purposes.
 ## Features
